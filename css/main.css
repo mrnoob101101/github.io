@@ -65,6 +65,9 @@ body {
 	padding: 10px 15px;
 	margin-right: 8px;
 }
+.signin:hover {
+	background-color: #FEF8F8
+}
 .register {
 	text-decoration: none;
 	border-radius: 2px;
@@ -73,6 +76,9 @@ body {
 	padding: 10px 15px;
 	margin-left: 8px;
 
+}
+.register:hover {
+	background-color: #292626;
 }
 .add-to-cart {
 	margin-right: 91px;
@@ -105,6 +111,7 @@ body {
 }
 .png1 {
 	margin: 16px 0 16px 0;
+	
 
 }
 .mac-gaz {
@@ -113,12 +120,14 @@ body {
 .rest {
 	text-decoration: none;
 	display: block;
+
 	}
 .rest:visited {
 	color: #1D1D1D;
 }
 .rest:hover {
-	background-color: #F0F8FF;
+	background-color: #FFF9F9;
+	border-radius: 3px;
 }
 .footer-top {
 	
@@ -185,4 +194,8 @@ body {
 	padding: 40px 80px 40px 87px;
 	background-color: #262626;
 	display: flex;
+}
+.restaurant-block {
+	margin: 10px
+
 }
